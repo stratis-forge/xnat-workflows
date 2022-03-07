@@ -1,2 +1,2 @@
-# xnat-workflows
+# STRATIS-forge xnat workflows
 Workflows for XNAT
